@@ -7,7 +7,7 @@ Je crée des sites web rapides, modernes et responsive.
 - 🔭 Je construis des projets web modernes
 - 🌱 J'apprends : React & Node.js
 - 🌍 Basé à Bangui, ouvert au remote worldwide
-- 📫 Contact : francklin.yawili@gmail.com
+- 📫 Contact : yawilifrancklin@gmail.com
 
 ### 🛠️ Tech Stack
 - Frontend: HTML5, CSS3, JavaScript
